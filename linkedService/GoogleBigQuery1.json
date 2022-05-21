@@ -1,0 +1,13 @@
+{
+	"name": "GoogleBigQuery1",
+	"properties": {
+		"annotations": [],
+		"type": "GoogleBigQuery",
+		"typeProperties": {
+			"project": "sandbox-atra",
+			"requestGoogleDriveScope": false,
+			"authenticationType": "UserAuthentication",
+			"clientId": "vinicius.costa@atrainformatica.com.br"
+		}
+	}
+}
