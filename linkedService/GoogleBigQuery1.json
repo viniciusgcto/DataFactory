@@ -6,8 +6,10 @@
 		"typeProperties": {
 			"project": "sandbox-atra",
 			"requestGoogleDriveScope": false,
-			"authenticationType": "UserAuthentication",
-			"clientId": "vinicius.costa@atrainformatica.com.br"
+			"authenticationType": "ServiceAuthentication",
+			"email": "vinicius.costa@atrainformatica.com.br",
+			"keyFilePath": "bigquery-public-data.austin_crime.crime",
+			"useSystemTrustStore": false
 		}
 	}
 }
